@@ -125,3 +125,6 @@ dmypy.json
 
 # vscode
 .vscode/
+
+# vagrant folder
+.vagrant/
